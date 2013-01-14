@@ -1,0 +1,13 @@
+
+try {
+  ......
+  throw ("my exception");
+  throw new Error("my error");
+  .....
+}
+catch (exception) {
+  ......
+}
+finally {
+  ......
+}
